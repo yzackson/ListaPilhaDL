@@ -1,0 +1,15 @@
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\bin\Debug\FIFO_DobleLinkedList.exe.config
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\bin\Debug\FIFO_DobleLinkedList.exe.manifest
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\bin\Debug\FIFO_DobleLinkedList.application
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\bin\Debug\FIFO_DobleLinkedList.exe
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\bin\Debug\FIFO_DobleLinkedList.pdb
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\ListaPilhaDL.csproj.AssemblyReference.cache
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\ListaPilhaDL.csproj.SuggestedBindingRedirects.cache
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.FormFilaPilha.resources
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.Properties.Resources.resources
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\ListaPilhaDL.csproj.GenerateResource.cache
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\ListaPilhaDL.csproj.CoreCompileInputs.cache
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.exe.manifest
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.application
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.exe
+C:\Dev\Faculdade\FIFO_DobleLinkedList\FIFO_DobleLinkedList\obj\Debug\FIFO_DobleLinkedList.pdb
