@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="FIFO_DobleLinkedList.exe" version="1.0.0.0" publicKeyToken="9c05db02ba9e8a0e" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="FIFO_DobleLinkedList" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="FIFO_DobleLinkedList.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FIFO_DobleLinkedList.exe" size="11192">
+      <assemblyIdentity name="FIFO_DobleLinkedList" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>cndkxNJdktHzwOxC8h9y0+LhkmnR1b2Nz1TxBBL3nn4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FIFO_DobleLinkedList.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+CM46OnHRrXZXNLMx7+U3V3iubiYL//d8hGOR13lDhU=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ISAAC-PC\Isaac" issuerKeyHash="90b45a24ee0289a5a1bd727b9eb7c131fdf57544" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>46X+XRU9GudeutUYuQx/kwLPncuUmGtnOiULMmNfo5c=</DigestValue></Reference></SignedInfo><SignatureValue>LldU4ABxl9B7boXpC7yTaxmuF6UiOr+0BQUZGKekxOuCEKwt7jk5JS7M4PrFjiNsxmpb2rjUFOCj9Yuku5eYxaP1ba10Hlivx2l5Lr86cO28Rh09fGlqJHYbDR4VoJNjdF+TQGg2Sa4MB8o6OxBDkW/11+H9SMz9kZ5wesDVpIM=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>xggceq0MHS0itSDMI3DtnJzkSNjLGD+GmgsHTNRKcDOzMqkq7EC0jijWvW4VelSulhOhfhI6S6THz5TmCSoGaqLPkrIJnCbFyL/gLS2qdE5arvg0RqO9nzjAwYNEgtGwk1Zg3DeUpUCtn/6O7bp4QCVBhvsOOg5PTEA2GvnryB0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="97a35f63320b253a676b9894cb9dcf02937f0cb918d5ba5ee71a3d155dfea5e3" Description="" Url=""><as:assemblyIdentity name="FIFO_DobleLinkedList.exe" version="1.0.0.0" publicKeyToken="9c05db02ba9e8a0e" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ISAAC-PC\Isaac</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>AoYdQdl3NBHjGZTf3iZ7Wrz78B6G+LDK0y0uVncvJBc=</DigestValue></Reference></SignedInfo><SignatureValue>Yyz5Qdnlqbpn02msdGIfg2KA1wBenWceTyvQ4fDVhY5rYMBqvrbCZopkT3XcM17V3GXAZt5eTgIIIA7PM6Oxp1uZyv19cQV4QiSj4HUWmn0Kg671OiWp9udcQ2uOJ1JajDVbav1krKNjtu2PNDzw5KeDRVMGw2VRyKeahIp4QFY=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>xggceq0MHS0itSDMI3DtnJzkSNjLGD+GmgsHTNRKcDOzMqkq7EC0jijWvW4VelSulhOhfhI6S6THz5TmCSoGaqLPkrIJnCbFyL/gLS2qdE5arvg0RqO9nzjAwYNEgtGwk1Zg3DeUpUCtn/6O7bp4QCVBhvsOOg5PTEA2GvnryB0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB0TCCATqgAwIBAgIQeFgZsWheH61PlQ9osjoVtDANBgkqhkiG9w0BAQsFADAnMSUwIwYDVQQDHhwASQBTAEEAQQBDAC0AUABDAFwASQBzAGEAYQBjMB4XDTIyMDYyMDE0MDkzOVoXDTIzMDYyMDIwMDkzOVowJzElMCMGA1UEAx4cAEkAUwBBAEEAQwAtAFAAQwBcAEkAcwBhAGEAYzCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAxggceq0MHS0itSDMI3DtnJzkSNjLGD+GmgsHTNRKcDOzMqkq7EC0jijWvW4VelSulhOhfhI6S6THz5TmCSoGaqLPkrIJnCbFyL/gLS2qdE5arvg0RqO9nzjAwYNEgtGwk1Zg3DeUpUCtn/6O7bp4QCVBhvsOOg5PTEA2GvnryB0CAwEAATANBgkqhkiG9w0BAQsFAAOBgQBnqiC6lB/+j5MtrGabEtvotj4vfGBun1TRR7iAo+vLKNsDFLad8N1vjLm73pv5NZ9YX8EGYC2RqVwsEVkL0+N83A/5h8/vcnqp4pkUAdv3Ym5yfq5/FqffrdX8EerjfT8RStPr93cWPv+ybR09eAzbSS7mZhfhcFv8uR4toExNDQ==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
